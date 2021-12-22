@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.BorderPane?>
+
+<BorderPane fx:id="rootBorderPane" minWidth="700.0" prefHeight="600.0" prefWidth="711.0" style="-fx-background-radius: 20; -fx-border-radius: 20; -fx-background-color: #ffffff;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.MainController">
+   <padding>
+      <Insets top="25.0" />
+   </padding>
+</BorderPane>
